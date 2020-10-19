@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZOWcAlCKx0q7GXDTPNzW0p9kXSmpcVOWq58gFahNQ4g6mnIJ7/JS9NdiWeK03zFX1TrLvp0Vu1vy7m23JP1/pg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MohamedAmineLABOUA\\Desktop\\Data\\Sql Scripts\\CakeFactory\\CakeFactory.ConsoleApp\\CakeFactory.ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MohamedAmineLABOUA\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.9\\microsoft.extensions.configuration.3.1.9.nupkg.sha512",
+    "C:\\Users\\MohamedAmineLABOUA\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.9\\microsoft.extensions.configuration.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\MohamedAmineLABOUA\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.9\\microsoft.extensions.configuration.binder.3.1.9.nupkg.sha512",
+    "C:\\Users\\MohamedAmineLABOUA\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.9\\microsoft.extensions.configuration.fileextensions.3.1.9.nupkg.sha512",
+    "C:\\Users\\MohamedAmineLABOUA\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.9\\microsoft.extensions.configuration.json.3.1.9.nupkg.sha512",
+    "C:\\Users\\MohamedAmineLABOUA\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.9\\microsoft.extensions.dependencyinjection.3.1.9.nupkg.sha512",
+    "C:\\Users\\MohamedAmineLABOUA\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.9\\microsoft.extensions.dependencyinjection.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\MohamedAmineLABOUA\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.9\\microsoft.extensions.fileproviders.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\MohamedAmineLABOUA\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.9\\microsoft.extensions.fileproviders.physical.3.1.9.nupkg.sha512",
+    "C:\\Users\\MohamedAmineLABOUA\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.9\\microsoft.extensions.filesystemglobbing.3.1.9.nupkg.sha512",
+    "C:\\Users\\MohamedAmineLABOUA\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.9\\microsoft.extensions.primitives.3.1.9.nupkg.sha512",
+    "C:\\Users\\MohamedAmineLABOUA\\.nuget\\packages\\system.threading.tasks.dataflow\\4.11.1\\system.threading.tasks.dataflow.4.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}

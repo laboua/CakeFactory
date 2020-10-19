@@ -1,0 +1,8 @@
+C:\Users\MohamedAmineLABOUA\Desktop\Data\CakeMachineKata-master\CakeMachineKata\CakeMachineKata.UsingDataflow\bin\Debug\netstandard2.0\CakeMachineKata.UsingDataflow.deps.json
+C:\Users\MohamedAmineLABOUA\Desktop\Data\CakeMachineKata-master\CakeMachineKata\CakeMachineKata.UsingDataflow\bin\Debug\netstandard2.0\CakeMachineKata.UsingDataflow.dll
+C:\Users\MohamedAmineLABOUA\Desktop\Data\CakeMachineKata-master\CakeMachineKata\CakeMachineKata.UsingDataflow\bin\Debug\netstandard2.0\CakeMachineKata.UsingDataflow.pdb
+C:\Users\MohamedAmineLABOUA\Desktop\Data\CakeMachineKata-master\CakeMachineKata\CakeMachineKata.UsingDataflow\obj\Debug\netstandard2.0\CakeMachineKata.UsingDataflow.AssemblyInfoInputs.cache
+C:\Users\MohamedAmineLABOUA\Desktop\Data\CakeMachineKata-master\CakeMachineKata\CakeMachineKata.UsingDataflow\obj\Debug\netstandard2.0\CakeMachineKata.UsingDataflow.AssemblyInfo.cs
+C:\Users\MohamedAmineLABOUA\Desktop\Data\CakeMachineKata-master\CakeMachineKata\CakeMachineKata.UsingDataflow\obj\Debug\netstandard2.0\CakeMachineKata.UsingDataflow.csproj.CoreCompileInputs.cache
+C:\Users\MohamedAmineLABOUA\Desktop\Data\CakeMachineKata-master\CakeMachineKata\CakeMachineKata.UsingDataflow\obj\Debug\netstandard2.0\CakeMachineKata.UsingDataflow.dll
+C:\Users\MohamedAmineLABOUA\Desktop\Data\CakeMachineKata-master\CakeMachineKata\CakeMachineKata.UsingDataflow\obj\Debug\netstandard2.0\CakeMachineKata.UsingDataflow.pdb

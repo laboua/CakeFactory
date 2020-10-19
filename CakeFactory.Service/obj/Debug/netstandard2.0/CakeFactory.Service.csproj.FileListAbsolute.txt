@@ -1,0 +1,27 @@
+C:\Users\MohamedAmineLABOUA\Desktop\Data\CakeMachineKata-master\CakeMachineKata\CakeMachineKata.UsingDataflow\bin\Debug\netstandard2.0\CakeFactory.Service.deps.json
+C:\Users\MohamedAmineLABOUA\Desktop\Data\CakeMachineKata-master\CakeMachineKata\CakeMachineKata.UsingDataflow\bin\Debug\netstandard2.0\CakeFactory.Service.dll
+C:\Users\MohamedAmineLABOUA\Desktop\Data\CakeMachineKata-master\CakeMachineKata\CakeMachineKata.UsingDataflow\bin\Debug\netstandard2.0\CakeFactory.Service.pdb
+C:\Users\MohamedAmineLABOUA\Desktop\Data\CakeMachineKata-master\CakeMachineKata\CakeMachineKata.UsingDataflow\obj\Debug\netstandard2.0\CakeFactory.Service.AssemblyInfoInputs.cache
+C:\Users\MohamedAmineLABOUA\Desktop\Data\CakeMachineKata-master\CakeMachineKata\CakeMachineKata.UsingDataflow\obj\Debug\netstandard2.0\CakeFactory.Service.AssemblyInfo.cs
+C:\Users\MohamedAmineLABOUA\Desktop\Data\CakeMachineKata-master\CakeMachineKata\CakeMachineKata.UsingDataflow\obj\Debug\netstandard2.0\CakeFactory.Service.csproj.CoreCompileInputs.cache
+C:\Users\MohamedAmineLABOUA\Desktop\Data\CakeMachineKata-master\CakeMachineKata\CakeMachineKata.UsingDataflow\obj\Debug\netstandard2.0\CakeFactory.Service.dll
+C:\Users\MohamedAmineLABOUA\Desktop\Data\CakeMachineKata-master\CakeMachineKata\CakeMachineKata.UsingDataflow\obj\Debug\netstandard2.0\CakeFactory.Service.pdb
+C:\Users\MohamedAmineLABOUA\Desktop\Data\CakeMachineKata-master\CakeMachineKata\CakeMachineKata.UsingDataflow\obj\Debug\netstandard2.0\CakeFactory.Service.csprojAssemblyReference.cache
+C:\Users\MohamedAmineLABOUA\Desktop\Data\CakeMachineKata-master\CakeMachineKata\CakeFactory.UsingDataflow\bin\Debug\netstandard2.0\CakeFactory.Service.deps.json
+C:\Users\MohamedAmineLABOUA\Desktop\Data\CakeMachineKata-master\CakeMachineKata\CakeFactory.UsingDataflow\bin\Debug\netstandard2.0\CakeFactory.Service.dll
+C:\Users\MohamedAmineLABOUA\Desktop\Data\CakeMachineKata-master\CakeMachineKata\CakeFactory.UsingDataflow\bin\Debug\netstandard2.0\CakeFactory.Service.pdb
+C:\Users\MohamedAmineLABOUA\Desktop\Data\CakeMachineKata-master\CakeMachineKata\CakeFactory.UsingDataflow\obj\Debug\netstandard2.0\CakeFactory.Service.AssemblyInfoInputs.cache
+C:\Users\MohamedAmineLABOUA\Desktop\Data\CakeMachineKata-master\CakeMachineKata\CakeFactory.UsingDataflow\obj\Debug\netstandard2.0\CakeFactory.Service.AssemblyInfo.cs
+C:\Users\MohamedAmineLABOUA\Desktop\Data\CakeMachineKata-master\CakeMachineKata\CakeFactory.UsingDataflow\obj\Debug\netstandard2.0\CakeFactory.Service.csproj.CoreCompileInputs.cache
+C:\Users\MohamedAmineLABOUA\Desktop\Data\CakeMachineKata-master\CakeMachineKata\CakeFactory.UsingDataflow\obj\Debug\netstandard2.0\CakeFactory.Service.dll
+C:\Users\MohamedAmineLABOUA\Desktop\Data\CakeMachineKata-master\CakeMachineKata\CakeFactory.UsingDataflow\obj\Debug\netstandard2.0\CakeFactory.Service.pdb
+C:\Users\MohamedAmineLABOUA\Desktop\Data\CakeMachineKata-master\CakeMachineKata\CakeFactory.UsingDataflow\obj\Debug\netstandard2.0\CakeFactory.Service.csprojAssemblyReference.cache
+C:\Users\MohamedAmineLABOUA\Desktop\Data\Sql Scripts\CakeFactory\CakeFactory.Service\bin\Debug\netstandard2.0\CakeFactory.Service.deps.json
+C:\Users\MohamedAmineLABOUA\Desktop\Data\Sql Scripts\CakeFactory\CakeFactory.Service\bin\Debug\netstandard2.0\CakeFactory.Service.dll
+C:\Users\MohamedAmineLABOUA\Desktop\Data\Sql Scripts\CakeFactory\CakeFactory.Service\bin\Debug\netstandard2.0\CakeFactory.Service.pdb
+C:\Users\MohamedAmineLABOUA\Desktop\Data\Sql Scripts\CakeFactory\CakeFactory.Service\obj\Debug\netstandard2.0\CakeFactory.Service.csprojAssemblyReference.cache
+C:\Users\MohamedAmineLABOUA\Desktop\Data\Sql Scripts\CakeFactory\CakeFactory.Service\obj\Debug\netstandard2.0\CakeFactory.Service.AssemblyInfoInputs.cache
+C:\Users\MohamedAmineLABOUA\Desktop\Data\Sql Scripts\CakeFactory\CakeFactory.Service\obj\Debug\netstandard2.0\CakeFactory.Service.AssemblyInfo.cs
+C:\Users\MohamedAmineLABOUA\Desktop\Data\Sql Scripts\CakeFactory\CakeFactory.Service\obj\Debug\netstandard2.0\CakeFactory.Service.csproj.CoreCompileInputs.cache
+C:\Users\MohamedAmineLABOUA\Desktop\Data\Sql Scripts\CakeFactory\CakeFactory.Service\obj\Debug\netstandard2.0\CakeFactory.Service.dll
+C:\Users\MohamedAmineLABOUA\Desktop\Data\Sql Scripts\CakeFactory\CakeFactory.Service\obj\Debug\netstandard2.0\CakeFactory.Service.pdb
